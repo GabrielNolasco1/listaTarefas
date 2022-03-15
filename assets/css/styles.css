@@ -90,6 +90,6 @@ section div {
 
 @media (max-width: 500px) {
     .container {
-    margin: 0 30px;
+        margin: 30px 30px;
     }
 }
