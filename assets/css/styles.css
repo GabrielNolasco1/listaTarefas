@@ -87,3 +87,9 @@ section div {
     color: white;
     border: 1px solid #EEE;
 }
+
+@media (max-width: 500px) {
+    .container {
+    margin: 0 30px;
+    }
+}
